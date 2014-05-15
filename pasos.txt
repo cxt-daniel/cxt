@@ -1,0 +1,14 @@
+instalar git:
+   apt-get intall git
+
+crear carpeta para crear o repositorio local:
+   mkdir ~/git_cxt
+
+entrar no directorio creado:
+   cd ~/git_cxt
+
+crear o repositorio:
+   git init
+
+engadir arquivos:
+   git .
