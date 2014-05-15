@@ -11,4 +11,14 @@ crear o repositorio:
    git init
 
 engadir arquivos:
-   git .
+   todos os arquivos:
+      git add .
+   arquivo en concreto:
+      git add arquivo.algo
+
+introducir nome de usuarios e correo no programa:
+   git config --global user.name "daniel"
+   git config --global user.mail "daniel@correo.son"
+
+facer commit:
+   git commit
